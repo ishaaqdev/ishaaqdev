@@ -32,13 +32,12 @@ I build robust, resource-constrained AI systems and solve high-impact engineerin
   <img src="https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-### Featured Systems
+### Selected Work & Demos
 
-**[Staged Embarrassment Learning (SEL)](https://github.com/ishaaqdev/Staged-Embarrassment-Learning-SEL)**
-> A 5-stage curriculum learning pipeline reducing training time by 42% and compute operations by 95%.
-
-**[IWM Reverse Vending Machine](https://github.com/ishaaqdev/IWM-Reverse-Vending-Machine)**
-> Arduino Uno based system deploying computer vision to detect plastic bottles and simplify recycling.
-
-**[OceanOS](https://github.com/ishaaqdev/OceanOS)**
-> Full-stack IoT telemetry simulation leveraging Three.js for real-time environmental metrics.
+<p>
+  <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning-SEL/"><img src="https://img.shields.io/badge/SEL_v2-Efficiency_Framework-0078D4?style=for-the-badge" /></a>
+  <a href="https://ishaaqdev.github.io/IWM-Reverse-Vending-Machine/"><img src="https://img.shields.io/badge/IWM-Waste_Segregation-228B22?style=for-the-badge" /></a>
+  <a href="https://ishaaqdev.github.io/OceanOS/"><img src="https://img.shields.io/badge/OceanOS-IoT_Simulation-00CED1?style=for-the-badge" /></a>
+  <a href="https://ishaaqdev.github.io/OnlyFriends/"><img src="https://img.shields.io/badge/OnlyFriends-Social_Architecture-FF4500?style=for-the-badge" /></a>
+  <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning/"><img src="https://img.shields.io/badge/SEL-Core_Logic-4B0082?style=for-the-badge" /></a>
+</p>
