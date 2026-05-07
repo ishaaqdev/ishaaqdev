@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="media/profile-highlights.png" alt="Profile Highlights" width="800" />
-  
   <h1>Mohammed Ishaaq</h1>
   <p><b>Engineering intelligence for the edge.</b></p>
   <p>Information Science & Engineering • BGSCET, Bengaluru</p>
 
   <a href="mailto:ishaaq.tech@gmail.com"><img src="https://img.shields.io/badge/Email-ishaaq.tech@gmail.com-1A1B26?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ishaaq42/"><img src="https://img.shields.io/badge/LinkedIn-ishaaq42-1A1B26?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+  <br/>
+  <br/>
+
+  <img src="media/profile-highlights.png" alt="Profile Highlights" width="800" />
 </div>
 
 <br/>
