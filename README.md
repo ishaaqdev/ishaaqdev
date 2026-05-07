@@ -34,12 +34,11 @@ I build robust, resource-constrained AI systems and solve high-impact engineerin
   <img src="https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-### Selected Work & Demos
-
-<p>
+<div align="center">
+  <h3>Selected Work & Demos</h3>
   <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning-SEL/"><img src="https://img.shields.io/badge/SEL_v2-Efficiency_Framework-0078D4?style=for-the-badge" /></a>
   <a href="https://ishaaqdev.github.io/IWM-Reverse-Vending-Machine/"><img src="https://img.shields.io/badge/IWM-Waste_Segregation-228B22?style=for-the-badge" /></a>
   <a href="https://ishaaqdev.github.io/OceanOS/"><img src="https://img.shields.io/badge/OceanOS-IoT_Simulation-00CED1?style=for-the-badge" /></a>
   <a href="https://ishaaqdev.github.io/OnlyFriends/"><img src="https://img.shields.io/badge/OnlyFriends-Social_Architecture-FF4500?style=for-the-badge" /></a>
   <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning/"><img src="https://img.shields.io/badge/SEL-Core_Logic-4B0082?style=for-the-badge" /></a>
-</p>
+</div>
