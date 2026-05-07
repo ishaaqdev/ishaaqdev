@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- IMPORTANT: Rename the image you provided to "profile-image.png" and upload it to this repository -->
-  <img src="profile-image.png" alt="Profile Highlights" width="800" />
+  <!-- IMPORTANT: Rename the image you provided to "profile-image.png" and place it in the "media" folder -->
+  <img src="media/profile-image.png" alt="Profile Highlights" width="800" />
   
   <h1>Mohammed Ishaaq</h1>
   <p><b>Engineering intelligence for the edge.</b></p>
@@ -14,12 +14,12 @@
 
 I build robust, resource-constrained AI systems and solve high-impact engineering problems, focusing on architectural efficiency, computer vision, and edge deployment.
 
-### 🏆 Milestones
+### Milestones
 - **Patent Granted:** AI-driven waste segregation system (No. 482604-001).
 - **Funding:** ₹1,00,000+ secured for sustainable AI development.
 - **Awards:** JVTM National Exhibition Winner & SIH Grand Finalist.
 
-### 💻 Technical Arsenal
+### Technical Arsenal
 
 <p>
   <img src="https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -32,7 +32,7 @@ I build robust, resource-constrained AI systems and solve high-impact engineerin
   <img src="https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-### 🚀 Featured Systems
+### Featured Systems
 
 **[Staged Embarrassment Learning (SEL)](https://github.com/ishaaqdev/Staged-Embarrassment-Learning-SEL)**
 > A 5-stage curriculum learning pipeline reducing training time by 42% and compute operations by 95%.
