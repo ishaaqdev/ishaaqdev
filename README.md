@@ -34,8 +34,6 @@ I build robust, resource-constrained artificial intelligence systems and solve h
 **[OceanOS](https://github.com/ishaaqdev/OceanOS)**
 > Full-stack IoT telemetry simulation leveraging Three.js to visualize real-time environmental metrics.
 
-**[Knack Architecture](https://github.com/ishaaqdev/JobCraft)**
-> Large Language Model integration for dynamic generation of technical roadmaps and skill gap analysis.
 
 ---
 
@@ -43,5 +41,5 @@ I build robust, resource-constrained artificial intelligence systems and solve h
 
 I am currently available for technical internships based in Bengaluru or operating remotely.
 
-**Email:** [1mp23is030@gmail.com](mailto:1mp23is030@gmail.com) <br/>
-**Network:** [LinkedIn Profile](https://linkedin.com/in/your-profile)
+**Email:** [ishaaq.tech@gmail.com](mailto:1mp23is030@gmail.com) <br/>
+**Network:** [LinkedIn Profile](https://www.linkedin.com/in/ishaaq42/)
