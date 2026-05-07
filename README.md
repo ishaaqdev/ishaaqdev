@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- IMPORTANT: Rename the image you provided to "profile-image.png" and place it in the "media" folder -->
-  <img src="media/profile-image.png" alt="Profile Highlights" width="800" />
+  <img src="media/profile-highlights.png" alt="Profile Highlights" width="800" />
   
   <h1>Mohammed Ishaaq</h1>
   <p><b>Engineering intelligence for the edge.</b></p>
