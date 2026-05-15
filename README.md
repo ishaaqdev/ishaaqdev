@@ -20,6 +20,7 @@ I build robust, resource-constrained AI systems and solve high-impact engineerin
 - **Patent Granted:** AI-driven waste segregation system (No. 482604-001).
 - **Funding:** ₹1,00,000+ secured for sustainable AI development.
 - **Awards:** JVTM National Exhibition Winner & Smart India Hackathon (SIH) Grand Finalist (120-hour hardware + software edition).
+- **Hackathons:**Smart India Hackathon (SIH) Grand Finalist (120-hour hardware + software edition) & ZeroOne Runner Ups.
 
 ### Technical Arsenal
 
