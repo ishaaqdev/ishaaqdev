@@ -13,36 +13,40 @@
 </div>
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="20">
     <tr>
-      <td align="center">
-        <img src="media/SEL.png" width="380px" /><br/>
-        <b>Staged Embarrassment Learning (v2)</b><br/>
-        <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning-SEL/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/Staged-Embarrassment-Learning-SEL">💻 Repo</a>
+      <td align="center" valign="bottom">
+        <h3>Staged Embarrassment Learning (v2)</h3>
+        <img src="media/SEL.png" width="380" /><br/><br/>
+        <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning-SEL/"><img src="https://img.shields.io/badge/Demo-1A1B26?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/ishaaqdev/Staged-Embarrassment-Learning-SEL/"><img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white" /></a>
       </td>
-      <td align="center">
-        <img src="media/Recylo.png" width="380px" /><br/>
-        <b>Recylo AI Waste Segregator</b><br/>
-        <a href="https://ishaaqdev.github.io/Recylo-SIH/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/Recylo-SIH">💻 Repo</a>
+      <td align="center" valign="bottom">
+        <h3>Recylo AI Waste Segregator</h3>
+        <img src="media/Recylo.png" width="380" /><br/><br/>
+        <a href="https://ishaaqdev.github.io/Recylo-SIH/"><img src="https://img.shields.io/badge/Demo-1A1B26?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/ishaaqdev/Recylo-SIH/"><img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white" /></a>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="media/IWM.png" width="380px" /><br/>
-        <b>IWM Reverse Vending Machine</b><br/>
-        <a href="https://ishaaqdev.github.io/IWM-Reverse-Vending-Machine/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/IWM-Reverse-Vending-Machine">💻 Repo</a>
+      <td align="center" valign="bottom">
+        <h3>IWM Reverse Vending Machine</h3>
+        <img src="media/IWM.png" width="380" /><br/><br/>
+        <a href="https://ishaaqdev.github.io/IWM-Reverse-Vending-Machine/"><img src="https://img.shields.io/badge/Demo-1A1B26?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/ishaaqdev/IWM-Reverse-Vending-Machine/"><img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white" /></a>
       </td>
-      <td align="center">
-        <img src="media/oceanos.png" width="380px" /><br/>
-        <b>OceanOS IoT Simulation</b><br/>
-        <a href="https://ishaaqdev.github.io/OceanOS/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/OceanOS">💻 Repo</a>
+      <td align="center" valign="bottom">
+        <h3>OceanOS IoT Simulation</h3>
+        <img src="media/oceanos.png" width="380" /><br/><br/>
+        <a href="https://ishaaqdev.github.io/OceanOS/"><img src="https://img.shields.io/badge/Demo-1A1B26?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/ishaaqdev/OceanOS/"><img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white" /></a>
       </td>
     </tr>
   </table>
   <br/>
   <p>
-    <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning/"><b>SEL Core Logic</b></a> • 
-    <a href="https://ishaaqdev.github.io/OnlyFriends/"><b>OnlyFriends Social Architecture</b></a>
+    <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning/"><img src="https://img.shields.io/badge/SEL_Core_Logic-4B0082?style=flat-square" /></a>
+    <a href="https://ishaaqdev.github.io/OnlyFriends/"><img src="https://img.shields.io/badge/OnlyFriends_Social_Architecture-FF4500?style=flat-square" /></a>
   </p>
 </div>
 
