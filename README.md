@@ -9,7 +9,41 @@
   <br/>
   <br/>
 
-  <img src="media/profile-highlights.png" alt="Profile Highlights" width="800" />
+  <img src="media/achivements.png" alt="Achievements" width="800" />
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="media/SEL.png" width="380px" /><br/>
+        <b>Staged Embarrassment Learning (v2)</b><br/>
+        <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning-SEL/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/Staged-Embarrassment-Learning-SEL">💻 Repo</a>
+      </td>
+      <td align="center">
+        <img src="media/Recylo.png" width="380px" /><br/>
+        <b>Recylo AI Waste Segregator</b><br/>
+        <a href="https://ishaaqdev.github.io/Recylo-SIH/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/Recylo-SIH">💻 Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="media/IWM.png" width="380px" /><br/>
+        <b>IWM Reverse Vending Machine</b><br/>
+        <a href="https://ishaaqdev.github.io/IWM-Reverse-Vending-Machine/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/IWM-Reverse-Vending-Machine">💻 Repo</a>
+      </td>
+      <td align="center">
+        <img src="media/oceanos.png" width="380px" /><br/>
+        <b>OceanOS IoT Simulation</b><br/>
+        <a href="https://ishaaqdev.github.io/OceanOS/">🌐 Site</a> | <a href="https://github.com/ishaaqdev/OceanOS">💻 Repo</a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <p>
+    <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning/"><b>SEL Core Logic</b></a> • 
+    <a href="https://ishaaqdev.github.io/OnlyFriends/"><b>OnlyFriends Social Architecture</b></a>
+  </p>
 </div>
 
 <br/>
@@ -35,11 +69,4 @@ I build robust, resource-constrained AI systems and solve high-impact engineerin
   <img src="https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-<div align="center">
-  <h3>Selected Work & Demos</h3>
-  <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning-SEL/"><img src="https://img.shields.io/badge/SEL_v2-Efficiency_Framework-0078D4?style=for-the-badge" /></a>
-  <a href="https://ishaaqdev.github.io/IWM-Reverse-Vending-Machine/"><img src="https://img.shields.io/badge/IWM-Waste_Segregation-228B22?style=for-the-badge" /></a>
-  <a href="https://ishaaqdev.github.io/OceanOS/"><img src="https://img.shields.io/badge/OceanOS-IoT_Simulation-00CED1?style=for-the-badge" /></a>
-  <a href="https://ishaaqdev.github.io/OnlyFriends/"><img src="https://img.shields.io/badge/OnlyFriends-Social_Architecture-FF4500?style=for-the-badge" /></a>
-  <a href="https://ishaaqdev.github.io/Staged-Embarrassment-Learning/"><img src="https://img.shields.io/badge/SEL-Core_Logic-4B0082?style=for-the-badge" /></a>
-</div>
+
