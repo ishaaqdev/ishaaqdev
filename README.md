@@ -11,7 +11,7 @@
 
   <img src="media/achivements.png" alt="Achievements" width="800" />
 </div>
-
+<hr/>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="20">
     <tr>
