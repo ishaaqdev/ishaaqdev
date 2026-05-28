@@ -1,7 +1,4 @@
-<div align="center">
-  <h1>Mohammed Ishaaq</h1>
-  <p><b>Engineering intelligence for the edge.</b></p>
-  <p>Information Science & Engineering • BGSCET, Bengaluru</p>
+
 
 <div align="center">
   <h1>Mohammed Ishaaq</h1>
