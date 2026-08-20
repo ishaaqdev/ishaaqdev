@@ -1,0 +1,38 @@
+<svg width="900" height="36" viewBox="0 0 900 36" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+      <animate attributeName="x1" values="-40%;0%;-40%" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;140%;100%" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#c0caf5" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <line x1="30" y1="18" x2="870" y2="18" stroke="url(#line)" stroke-width="1.1"/>
+
+  <g>
+    <circle r="8" fill="url(#glow)"/>
+    <circle r="1.7" fill="#c0caf5"/>
+    <animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.45 0 0.55 1" path="M 30 18 H 870"/>
+  </g>
+
+  <g opacity="0.7">
+    <circle cx="205" cy="18" r="1.1" fill="#7aa2f7">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="18" r="1.1" fill="#bb9af7">
+      <animate attributeName="opacity" values="0.9;0.15;0.9" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="695" cy="18" r="1.1" fill="#7aa2f7">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
