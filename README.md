@@ -147,7 +147,7 @@ I build vision systems that understand the physical world — from satellite sce
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishaaqdev&theme=tokyonight" height="180" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishaaqdev&theme=tokyonight" height="180" alt="Top languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=ishaaqdev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ishaaqdev&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&sideLabels=7aa2f7&dates=565f89" alt="Streak" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7aa2f7,50:414868,100:1a1b26&section=footer" width="100%" alt="" />
 
